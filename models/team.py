@@ -70,7 +70,10 @@ class Team:
     def get_random_character(self):
         character_id = random.randint(1, MAX_ID_API)
         url = f"{API_BASE_URL}/{character_id}"
-        response = requests.get(url).json()
+        try:
+            response = requests.get(url).json()
+        except ValueError as e:
+            print(f"API ERROR: {e}")
         if response.get("response") == 'success' and self.is_a_valid_id_member(character_id):
             return Character(response)
         else:

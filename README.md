@@ -29,7 +29,6 @@ Las regla de la pelea finalmente se dejó como pelea 1 a 1 entre los personajes,
 │   ├── character.py
 │   └── team.py
 ├── requirements.txt
-├── runtime.txt
 └── Procfile
 ```
 
@@ -49,7 +48,6 @@ Las regla de la pelea finalmente se dejó como pelea 1 a 1 entre los personajes,
 - `main.py`: Archivo que contiene la función principal para ejecutar la simulación de la batalla.
 - `example.json`: Archivo JSON de ejemplo con datos de héroes.
 - `requirements.txt`: Lista de dependencias del proyecto.
-- `runtime.txt`: Especifica la versión de Python utilizada en Heroku.
 - `Procfile`: Archivo que indica a Heroku cómo ejecutar la aplicación.
 
 ## Cómo Ejecutar el Proyecto

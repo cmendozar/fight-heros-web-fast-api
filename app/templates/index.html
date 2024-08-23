@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simulación de Batalla</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Simulación de Batalla</h1>
+        <h2> Heroes vs Villanos</h2>
+        <form action="/simulate" method="post">
+            <label for="email">Correo electrónico:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="email">Nombre Equipo 1:</label>
+            <input type="text" id="team1_name" name="team1_name" required>
+            <label for="email">Nombre Equipo 2:</label>
+            <input type="text" id="team2_name" name="team2_name" required>
+            <button type="submit">Simular Batalla</button>
+        </form>
+    </div>
+</body>
+</html>

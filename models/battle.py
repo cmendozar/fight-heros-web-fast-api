@@ -28,8 +28,8 @@ class Battle:
 
     def win_msg(self, team):
         msg = f"""
-Team {team.name} WINS! Characters of the
-winning team: {', '.join([char.name for char in team.characters])}"""
+Team {team.name} WINS! Characters of the winning team:
+{', '.join([char.name for char in team.characters])}"""
         return msg
     
     def fight_one_on_one(self, fighter1, fighter2):

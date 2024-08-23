@@ -61,4 +61,4 @@ class Character:
         print(f"  Combat: {self.combat}")
         print(f"  HP: {self.HP}")
         print(f"  FB: {self.FB}")
-        print("=" * 50)
+        print("=" * 15)

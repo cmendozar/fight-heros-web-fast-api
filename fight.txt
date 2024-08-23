@@ -1,0 +1,902 @@
+Creating the team Team 1....
+==================================================
+The team is now complete.
+Team Team 1 Info:
+Alignment: bad
+Character: Domino (ID: 227)
+  Alignment: good
+  Intelligence: 63.0
+  Strength: 10.0
+  Speed: 27.0
+  Durability: 28.0
+  Power: 49.0
+  Combat: 74.0
+  HP: 157.45
+  FB: 0.2
+===============
+Character: Beyonder (ID: 80)
+  Alignment: good
+  Intelligence: 100.0
+  Strength: 100.0
+  Speed: 100.0
+  Durability: 100.0
+  Power: 100.0
+  Combat: 84.0
+  HP: 225.0
+  FB: 0.1111111111111111
+===============
+Character: Green Goblin (ID: 299)
+  Alignment: bad
+  Intelligence: 100.0
+  Strength: 48.0
+  Speed: 38.0
+  Durability: 60.0
+  Power: 48.0
+  Combat: 50.0
+  HP: 228.4
+  FB: 0.1111111111111111
+===============
+Character: Blackwulf (ID: 111)
+  Alignment: -
+  Intelligence: 50.0
+  Strength: 28.0
+  Speed: 8.0
+  Durability: 30.0
+  Power: 69.0
+  Combat: 25.0
+  HP: 206.78
+  FB: 0.25
+===============
+Character: Kraven II (ID: 394)
+  Alignment: bad
+  Intelligence: 50.0
+  Strength: 34.0
+  Speed: 23.0
+  Durability: 28.0
+  Power: 43.0
+  Combat: 85.0
+  HP: 158.37
+  FB: 1.0
+===============
+Creating the team Team 2....
+==================================================
+The team is now complete.
+Team Team 2 Info:
+Alignment: good
+Character: Groot (ID: 303)
+  Alignment: good
+  Intelligence: 75.0
+  Strength: 85.0
+  Speed: 33.0
+  Durability: 70.0
+  Power: 100.0
+  Combat: 64.0
+  HP: 317.0
+  FB: 0.125
+===============
+Character: Nightwing (ID: 491)
+  Alignment: good
+  Intelligence: 88.0
+  Strength: 11.0
+  Speed: 33.0
+  Durability: 28.0
+  Power: 36.0
+  Combat: 100.0
+  HP: 154.74
+  FB: 0.14285714285714285
+===============
+Character: Black Canary (ID: 97)
+  Alignment: good
+  Intelligence: 63.0
+  Strength: 8.0
+  Speed: 33.0
+  Durability: 20.0
+  Power: 52.0
+  Combat: 80.0
+  HP: 139.82
+  FB: 0.1111111111111111
+===============
+Character: Micro Lad (ID: 451)
+  Alignment: good
+  Intelligence: 38.0
+  Strength: 28.0
+  Speed: 27.0
+  Durability: 28.0
+  Power: 44.0
+  Combat: 32.0
+  HP: 181.7
+  FB: 1.0
+===============
+Character: Warp (ID: 706)
+  Alignment: bad
+  Intelligence: 38.0
+  Strength: 10.0
+  Speed: 23.0
+  Durability: 28.0
+  Power: 85.0
+  Combat: 50.0
+  HP: 161.93
+  FB: 0.16666666666666666
+===============
+Battle Start: Team Team 1 vs Team Team 2
+==================================================
+Fight: Domino vs Groot
+==============================
+Groot attacks Domino
+with Fast attack causing 6.58 damage!
+Domino's HP is now 150.87
+
+Domino attacks Groot
+with Fast attack causing 4.77 damage!
+Groot's HP is now 312.23
+
+Groot attacks Domino
+with Mental attack causing 8.19 damage!
+Domino's HP is now 142.68
+
+Domino attacks Groot
+with Strong attack causing 6.12 damage!
+Groot's HP is now 306.11
+
+Groot attacks Domino
+with Mental attack causing 8.19 damage!
+Domino's HP is now 134.49
+
+Domino attacks Groot
+with Strong attack causing 6.12 damage!
+Groot's HP is now 299.99
+
+Groot attacks Domino
+with Mental attack causing 8.19 damage!
+Domino's HP is now 126.31
+
+Domino attacks Groot
+with Fast attack causing 4.77 damage!
+Groot's HP is now 295.22
+
+Groot attacks Domino
+with Fast attack causing 6.58 damage!
+Domino's HP is now 119.72
+
+Domino attacks Groot
+with Fast attack causing 4.77 damage!
+Groot's HP is now 290.45
+
+Groot attacks Domino
+with Fast attack causing 6.58 damage!
+Domino's HP is now 113.14
+
+Domino attacks Groot
+with Mental attack causing 11.38 damage!
+Groot's HP is now 279.07
+
+Groot attacks Domino
+with Mental attack causing 8.19 damage!
+Domino's HP is now 104.96
+
+Domino attacks Groot
+with Strong attack causing 6.12 damage!
+Groot's HP is now 272.95
+
+Groot attacks Domino
+with Fast attack causing 6.58 damage!
+Domino's HP is now 98.37
+
+Domino attacks Groot
+with Mental attack causing 11.38 damage!
+Groot's HP is now 261.57
+
+Groot attacks Domino
+with Mental attack causing 8.19 damage!
+Domino's HP is now 90.19
+
+Domino attacks Groot
+with Fast attack causing 4.77 damage!
+Groot's HP is now 256.8
+
+Groot attacks Domino
+with Mental attack causing 8.19 damage!
+Domino's HP is now 82.0
+
+Domino attacks Groot
+with Mental attack causing 11.38 damage!
+Groot's HP is now 245.42
+
+Groot attacks Domino
+with Strong attack causing 10.47 damage!
+Domino's HP is now 71.52
+
+Domino attacks Groot
+with Strong attack causing 6.12 damage!
+Groot's HP is now 239.3
+
+Groot attacks Domino
+with Mental attack causing 8.19 damage!
+Domino's HP is now 63.34
+
+Domino attacks Groot
+with Mental attack causing 11.38 damage!
+Groot's HP is now 227.92
+
+Groot attacks Domino
+with Mental attack causing 8.19 damage!
+Domino's HP is now 55.15
+
+Domino attacks Groot
+with Mental attack causing 11.38 damage!
+Groot's HP is now 216.54
+
+Groot attacks Domino
+with Strong attack causing 10.47 damage!
+Domino's HP is now 44.67
+
+Domino attacks Groot
+with Fast attack causing 4.77 damage!
+Groot's HP is now 211.77
+
+Groot attacks Domino
+with Strong attack causing 10.47 damage!
+Domino's HP is now 34.2
+
+Domino attacks Groot
+with Fast attack causing 4.77 damage!
+Groot's HP is now 207.0
+
+Groot attacks Domino
+with Mental attack causing 8.19 damage!
+Domino's HP is now 26.01
+
+Domino attacks Groot
+with Strong attack causing 6.12 damage!
+Groot's HP is now 200.88
+
+Groot attacks Domino
+with Mental attack causing 8.19 damage!
+Domino's HP is now 17.82
+
+Domino attacks Groot
+with Strong attack causing 6.12 damage!
+Groot's HP is now 194.76
+
+Groot attacks Domino
+with Mental attack causing 8.19 damage!
+Domino's HP is now 9.64
+
+Domino attacks Groot
+with Strong attack causing 6.12 damage!
+Groot's HP is now 188.64
+
+Groot attacks Domino
+with Mental attack causing 8.19 damage!
+Domino's HP is now 1.45
+
+Domino attacks Groot
+with Fast attack causing 4.77 damage!
+Groot's HP is now 183.87
+
+Groot attacks Domino
+with Strong attack causing 10.47 damage!
+Domino's HP is now 0
+
+Groot wins!
+==============================
+Fight: Beyonder vs Groot
+==============================
+Groot attacks Beyonder
+with Strong attack causing 10.47 damage!
+Beyonder's HP is now 214.53
+
+Beyonder attacks Groot
+with Strong attack causing 10.76 damage!
+Groot's HP is now 173.11
+
+Groot attacks Beyonder
+with Fast attack causing 6.58 damage!
+Beyonder's HP is now 207.94
+
+Beyonder attacks Groot
+with Fast attack causing 11.11 damage!
+Groot's HP is now 162.0
+
+Groot attacks Beyonder
+with Mental attack causing 8.19 damage!
+Beyonder's HP is now 199.76
+
+Beyonder attacks Groot
+with Mental attack causing 10.93 damage!
+Groot's HP is now 151.07
+
+Groot attacks Beyonder
+with Mental attack causing 8.19 damage!
+Beyonder's HP is now 191.57
+
+Beyonder attacks Groot
+with Mental attack causing 10.93 damage!
+Groot's HP is now 140.14
+
+Groot attacks Beyonder
+with Strong attack causing 10.47 damage!
+Beyonder's HP is now 181.09
+
+Beyonder attacks Groot
+with Mental attack causing 10.93 damage!
+Groot's HP is now 129.2
+
+Groot attacks Beyonder
+with Strong attack causing 10.47 damage!
+Beyonder's HP is now 170.62
+
+Beyonder attacks Groot
+with Fast attack causing 11.11 damage!
+Groot's HP is now 118.09
+
+Groot attacks Beyonder
+with Mental attack causing 8.19 damage!
+Beyonder's HP is now 162.43
+
+Beyonder attacks Groot
+with Mental attack causing 10.93 damage!
+Groot's HP is now 107.16
+
+Groot attacks Beyonder
+with Strong attack causing 10.47 damage!
+Beyonder's HP is now 151.96
+
+Beyonder attacks Groot
+with Fast attack causing 11.11 damage!
+Groot's HP is now 96.05
+
+Groot attacks Beyonder
+with Strong attack causing 10.47 damage!
+Beyonder's HP is now 141.48
+
+Beyonder attacks Groot
+with Mental attack causing 10.93 damage!
+Groot's HP is now 85.11
+
+Groot attacks Beyonder
+with Mental attack causing 8.19 damage!
+Beyonder's HP is now 133.29
+
+Beyonder attacks Groot
+with Fast attack causing 11.11 damage!
+Groot's HP is now 74.0
+
+Groot attacks Beyonder
+with Strong attack causing 10.47 damage!
+Beyonder's HP is now 122.82
+
+Beyonder attacks Groot
+with Strong attack causing 10.76 damage!
+Groot's HP is now 63.25
+
+Groot attacks Beyonder
+with Fast attack causing 6.58 damage!
+Beyonder's HP is now 116.24
+
+Beyonder attacks Groot
+with Mental attack causing 10.93 damage!
+Groot's HP is now 52.31
+
+Groot attacks Beyonder
+with Fast attack causing 6.58 damage!
+Beyonder's HP is now 109.66
+
+Beyonder attacks Groot
+with Strong attack causing 10.76 damage!
+Groot's HP is now 41.56
+
+Groot attacks Beyonder
+with Fast attack causing 6.58 damage!
+Beyonder's HP is now 103.08
+
+Beyonder attacks Groot
+with Mental attack causing 10.93 damage!
+Groot's HP is now 30.63
+
+Groot attacks Beyonder
+with Mental attack causing 8.19 damage!
+Beyonder's HP is now 94.89
+
+Beyonder attacks Groot
+with Strong attack causing 10.76 damage!
+Groot's HP is now 19.87
+
+Groot attacks Beyonder
+with Strong attack causing 10.47 damage!
+Beyonder's HP is now 84.41
+
+Beyonder attacks Groot
+with Mental attack causing 10.93 damage!
+Groot's HP is now 8.94
+
+Groot attacks Beyonder
+with Fast attack causing 6.58 damage!
+Beyonder's HP is now 77.83
+
+Beyonder attacks Groot
+with Strong attack causing 10.76 damage!
+Groot's HP is now 0
+
+Beyonder wins!
+==============================
+Fight: Beyonder vs Nightwing
+==============================
+Beyonder attacks Nightwing
+with Mental attack causing 10.93 damage!
+Nightwing's HP is now 143.81
+
+Nightwing attacks Beyonder
+with Mental attack causing 11.17 damage!
+Beyonder's HP is now 66.66
+
+Beyonder attacks Nightwing
+with Strong attack causing 10.76 damage!
+Nightwing's HP is now 133.05
+
+Nightwing attacks Beyonder
+with Mental attack causing 11.17 damage!
+Beyonder's HP is now 55.49
+
+Beyonder attacks Nightwing
+with Mental attack causing 10.93 damage!
+Nightwing's HP is now 122.12
+
+Nightwing attacks Beyonder
+with Mental attack causing 11.17 damage!
+Beyonder's HP is now 44.32
+
+Beyonder attacks Nightwing
+with Mental attack causing 10.93 damage!
+Nightwing's HP is now 111.18
+
+Nightwing attacks Beyonder
+with Fast attack causing 3.91 damage!
+Beyonder's HP is now 40.41
+
+Beyonder attacks Nightwing
+with Strong attack causing 10.76 damage!
+Nightwing's HP is now 100.43
+
+Nightwing attacks Beyonder
+with Fast attack causing 3.91 damage!
+Beyonder's HP is now 36.5
+
+Beyonder attacks Nightwing
+with Fast attack causing 11.11 damage!
+Nightwing's HP is now 89.32
+
+Nightwing attacks Beyonder
+with Strong attack causing 4.83 damage!
+Beyonder's HP is now 31.67
+
+Beyonder attacks Nightwing
+with Fast attack causing 11.11 damage!
+Nightwing's HP is now 78.21
+
+Nightwing attacks Beyonder
+with Fast attack causing 3.91 damage!
+Beyonder's HP is now 27.77
+
+Beyonder attacks Nightwing
+with Mental attack causing 10.93 damage!
+Nightwing's HP is now 67.27
+
+Nightwing attacks Beyonder
+with Strong attack causing 4.83 damage!
+Beyonder's HP is now 22.94
+
+Beyonder attacks Nightwing
+with Fast attack causing 11.11 damage!
+Nightwing's HP is now 56.16
+
+Nightwing attacks Beyonder
+with Mental attack causing 11.17 damage!
+Beyonder's HP is now 11.77
+
+Beyonder attacks Nightwing
+with Mental attack causing 10.93 damage!
+Nightwing's HP is now 45.23
+
+Nightwing attacks Beyonder
+with Mental attack causing 11.17 damage!
+Beyonder's HP is now 0.6
+
+Beyonder attacks Nightwing
+with Strong attack causing 10.76 damage!
+Nightwing's HP is now 34.47
+
+Nightwing attacks Beyonder
+with Fast attack causing 3.91 damage!
+Beyonder's HP is now 0
+
+Nightwing wins!
+==============================
+Fight: Green Goblin vs Nightwing
+==============================
+Green Goblin attacks Nightwing
+with Fast attack causing 5.06 damage!
+Nightwing's HP is now 29.42
+
+Nightwing attacks Green Goblin
+with Fast attack causing 3.91 damage!
+Green Goblin's HP is now 224.49
+
+Green Goblin attacks Nightwing
+with Fast attack causing 5.06 damage!
+Nightwing's HP is now 24.36
+
+Nightwing attacks Green Goblin
+with Mental attack causing 11.17 damage!
+Green Goblin's HP is now 213.32
+
+Green Goblin attacks Nightwing
+with Mental attack causing 9.18 damage!
+Nightwing's HP is now 15.18
+
+Nightwing attacks Green Goblin
+with Strong attack causing 4.83 damage!
+Green Goblin's HP is now 208.49
+
+Green Goblin attacks Nightwing
+with Mental attack causing 9.18 damage!
+Nightwing's HP is now 6.01
+
+Nightwing attacks Green Goblin
+with Fast attack causing 3.91 damage!
+Green Goblin's HP is now 204.59
+
+Green Goblin attacks Nightwing
+with Mental attack causing 9.18 damage!
+Nightwing's HP is now 0
+
+Green Goblin wins!
+==============================
+Fight: Green Goblin vs Black Canary
+==============================
+Black Canary attacks Green Goblin
+with Strong attack causing 3.47 damage!
+Green Goblin's HP is now 201.12
+
+Green Goblin attacks Black Canary
+with Fast attack causing 5.06 damage!
+Black Canary's HP is now 134.76
+
+Black Canary attacks Green Goblin
+with Strong attack causing 3.47 damage!
+Green Goblin's HP is now 197.65
+
+Green Goblin attacks Black Canary
+with Strong attack causing 5.38 damage!
+Black Canary's HP is now 129.39
+
+Black Canary attacks Green Goblin
+with Strong attack causing 3.47 damage!
+Green Goblin's HP is now 194.19
+
+Green Goblin attacks Black Canary
+with Mental attack causing 9.18 damage!
+Black Canary's HP is now 120.21
+
+Black Canary attacks Green Goblin
+with Strong attack causing 3.47 damage!
+Green Goblin's HP is now 190.72
+
+Green Goblin attacks Black Canary
+with Fast attack causing 5.06 damage!
+Black Canary's HP is now 115.15
+
+Black Canary attacks Green Goblin
+with Mental attack causing 6.52 damage!
+Green Goblin's HP is now 184.2
+
+Green Goblin attacks Black Canary
+with Mental attack causing 9.18 damage!
+Black Canary's HP is now 105.98
+
+Black Canary attacks Green Goblin
+with Fast attack causing 2.75 damage!
+Green Goblin's HP is now 181.45
+
+Green Goblin attacks Black Canary
+with Fast attack causing 5.06 damage!
+Black Canary's HP is now 100.92
+
+Black Canary attacks Green Goblin
+with Strong attack causing 3.47 damage!
+Green Goblin's HP is now 177.98
+
+Green Goblin attacks Black Canary
+with Fast attack causing 5.06 damage!
+Black Canary's HP is now 95.86
+
+Black Canary attacks Green Goblin
+with Mental attack causing 6.52 damage!
+Green Goblin's HP is now 171.46
+
+Green Goblin attacks Black Canary
+with Mental attack causing 9.18 damage!
+Black Canary's HP is now 86.69
+
+Black Canary attacks Green Goblin
+with Fast attack causing 2.75 damage!
+Green Goblin's HP is now 168.71
+
+Green Goblin attacks Black Canary
+with Strong attack causing 5.38 damage!
+Black Canary's HP is now 81.31
+
+Black Canary attacks Green Goblin
+with Strong attack causing 3.47 damage!
+Green Goblin's HP is now 165.24
+
+Green Goblin attacks Black Canary
+with Strong attack causing 5.38 damage!
+Black Canary's HP is now 75.93
+
+Black Canary attacks Green Goblin
+with Fast attack causing 2.75 damage!
+Green Goblin's HP is now 162.49
+
+Green Goblin attacks Black Canary
+with Fast attack causing 5.06 damage!
+Black Canary's HP is now 70.88
+
+Black Canary attacks Green Goblin
+with Strong attack causing 3.47 damage!
+Green Goblin's HP is now 159.02
+
+Green Goblin attacks Black Canary
+with Strong attack causing 5.38 damage!
+Black Canary's HP is now 65.5
+
+Black Canary attacks Green Goblin
+with Fast attack causing 2.75 damage!
+Green Goblin's HP is now 156.27
+
+Green Goblin attacks Black Canary
+with Mental attack causing 9.18 damage!
+Black Canary's HP is now 56.32
+
+Black Canary attacks Green Goblin
+with Mental attack causing 6.52 damage!
+Green Goblin's HP is now 149.75
+
+Green Goblin attacks Black Canary
+with Strong attack causing 5.38 damage!
+Black Canary's HP is now 50.94
+
+Black Canary attacks Green Goblin
+with Fast attack causing 2.75 damage!
+Green Goblin's HP is now 147.0
+
+Green Goblin attacks Black Canary
+with Mental attack causing 9.18 damage!
+Black Canary's HP is now 41.76
+
+Black Canary attacks Green Goblin
+with Mental attack causing 6.52 damage!
+Green Goblin's HP is now 140.48
+
+Green Goblin attacks Black Canary
+with Strong attack causing 5.38 damage!
+Black Canary's HP is now 36.39
+
+Black Canary attacks Green Goblin
+with Mental attack causing 6.52 damage!
+Green Goblin's HP is now 133.96
+
+Green Goblin attacks Black Canary
+with Fast attack causing 5.06 damage!
+Black Canary's HP is now 31.33
+
+Black Canary attacks Green Goblin
+with Strong attack causing 3.47 damage!
+Green Goblin's HP is now 130.49
+
+Green Goblin attacks Black Canary
+with Fast attack causing 5.06 damage!
+Black Canary's HP is now 26.28
+
+Black Canary attacks Green Goblin
+with Strong attack causing 3.47 damage!
+Green Goblin's HP is now 127.02
+
+Green Goblin attacks Black Canary
+with Strong attack causing 5.38 damage!
+Black Canary's HP is now 20.9
+
+Black Canary attacks Green Goblin
+with Strong attack causing 3.47 damage!
+Green Goblin's HP is now 123.56
+
+Green Goblin attacks Black Canary
+with Fast attack causing 5.06 damage!
+Black Canary's HP is now 15.84
+
+Black Canary attacks Green Goblin
+with Mental attack causing 6.52 damage!
+Green Goblin's HP is now 117.04
+
+Green Goblin attacks Black Canary
+with Mental attack causing 9.18 damage!
+Black Canary's HP is now 6.66
+
+Black Canary attacks Green Goblin
+with Strong attack causing 3.47 damage!
+Green Goblin's HP is now 113.57
+
+Green Goblin attacks Black Canary
+with Fast attack causing 5.06 damage!
+Black Canary's HP is now 1.61
+
+Black Canary attacks Green Goblin
+with Mental attack causing 6.52 damage!
+Green Goblin's HP is now 107.05
+
+Green Goblin attacks Black Canary
+with Fast attack causing 5.06 damage!
+Black Canary's HP is now 0
+
+Green Goblin wins!
+==============================
+Fight: Green Goblin vs Micro Lad
+==============================
+Micro Lad attacks Green Goblin
+with Strong attack causing 32.0 damage!
+Green Goblin's HP is now 75.05
+
+Green Goblin attacks Micro Lad
+with Fast attack causing 5.06 damage!
+Micro Lad's HP is now 176.64
+
+Micro Lad attacks Green Goblin
+with Fast attack causing 27.45 damage!
+Green Goblin's HP is now 47.6
+
+Green Goblin attacks Micro Lad
+with Mental attack causing 9.18 damage!
+Micro Lad's HP is now 167.47
+
+Micro Lad attacks Green Goblin
+with Mental attack causing 35.2 damage!
+Green Goblin's HP is now 12.4
+
+Green Goblin attacks Micro Lad
+with Mental attack causing 9.18 damage!
+Micro Lad's HP is now 158.29
+
+Micro Lad attacks Green Goblin
+with Mental attack causing 35.2 damage!
+Green Goblin's HP is now 0
+
+Micro Lad wins!
+==============================
+Fight: Blackwulf vs Micro Lad
+==============================
+Blackwulf attacks Micro Lad
+with Fast attack causing 4.38 damage!
+Micro Lad's HP is now 153.91
+
+Micro Lad attacks Blackwulf
+with Mental attack causing 35.2 damage!
+Blackwulf's HP is now 171.58
+
+Blackwulf attacks Micro Lad
+with Fast attack causing 4.38 damage!
+Micro Lad's HP is now 149.54
+
+Micro Lad attacks Blackwulf
+with Strong attack causing 32.0 damage!
+Blackwulf's HP is now 139.58
+
+Blackwulf attacks Micro Lad
+with Strong attack causing 8.9 damage!
+Micro Lad's HP is now 140.64
+
+Micro Lad attacks Blackwulf
+with Strong attack causing 32.0 damage!
+Blackwulf's HP is now 107.58
+
+Blackwulf attacks Micro Lad
+with Fast attack causing 4.38 damage!
+Micro Lad's HP is now 136.26
+
+Micro Lad attacks Blackwulf
+with Fast attack causing 27.45 damage!
+Blackwulf's HP is now 80.13
+
+Blackwulf attacks Micro Lad
+with Mental attack causing 9.78 damage!
+Micro Lad's HP is now 126.49
+
+Micro Lad attacks Blackwulf
+with Fast attack causing 27.45 damage!
+Blackwulf's HP is now 52.68
+
+Blackwulf attacks Micro Lad
+with Mental attack causing 9.78 damage!
+Micro Lad's HP is now 116.71
+
+Micro Lad attacks Blackwulf
+with Fast attack causing 27.45 damage!
+Blackwulf's HP is now 25.23
+
+Blackwulf attacks Micro Lad
+with Strong attack causing 8.9 damage!
+Micro Lad's HP is now 107.81
+
+Micro Lad attacks Blackwulf
+with Fast attack causing 27.45 damage!
+Blackwulf's HP is now 0
+
+Micro Lad wins!
+==============================
+Fight: Kraven II vs Micro Lad
+==============================
+Kraven II attacks Micro Lad
+with Fast attack causing 26.45 damage!
+Micro Lad's HP is now 81.36
+
+Micro Lad attacks Kraven II
+with Strong attack causing 32.0 damage!
+Kraven II's HP is now 126.37
+
+Kraven II attacks Micro Lad
+with Strong attack causing 46.0 damage!
+Micro Lad's HP is now 35.36
+
+Micro Lad attacks Kraven II
+with Fast attack causing 27.45 damage!
+Kraven II's HP is now 98.92
+
+Kraven II attacks Micro Lad
+with Strong attack causing 46.0 damage!
+Micro Lad's HP is now 0
+
+Kraven II wins!
+==============================
+Fight: Kraven II vs Warp
+==============================
+Kraven II attacks Warp
+with Strong attack causing 46.0 damage!
+Warp's HP is now 115.93
+
+Warp attacks Kraven II
+with Fast attack causing 3.61 damage!
+Kraven II's HP is now 95.31
+
+Kraven II attacks Warp
+with Strong attack causing 46.0 damage!
+Warp's HP is now 69.93
+
+Warp attacks Kraven II
+with Fast attack causing 3.61 damage!
+Kraven II's HP is now 91.7
+
+Kraven II attacks Warp
+with Fast attack causing 26.45 damage!
+Warp's HP is now 43.48
+
+Warp attacks Kraven II
+with Strong attack causing 5.5 damage!
+Kraven II's HP is now 86.2
+
+Kraven II attacks Warp
+with Fast attack causing 26.45 damage!
+Warp's HP is now 17.03
+
+Warp attacks Kraven II
+with Strong attack causing 5.5 damage!
+Kraven II's HP is now 80.7
+
+Kraven II attacks Warp
+with Fast attack causing 26.45 damage!
+Warp's HP is now 0
+
+Kraven II wins!
+==============================
+
+Team Team 1 WINS! Characters of the winning team:
+Domino, Beyonder, Green Goblin, Blackwulf, Kraven II
+==================================================

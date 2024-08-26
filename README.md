@@ -2,7 +2,7 @@
 
 Fight Heroes Toku es una aplicación web construida con **FastAPI** que simula batallas entre dos equipos de héroes. Los resultados de la batalla se pueden enviar por correo electrónico a través de Mailgun. Esta aplicación permite a los usuarios ingresar su correo electrónico, simular una batalla, y recibir el resultado por correo.
 
-La puedes probar directamente en el siguiente link [https://simulator-fight-toku-de9854dcc293.herokuapp.com](#)
+La puedes probar directamente en el siguiente link [https://simulator-fight-toku-de9854dcc293.herokuapp.com](_)
 
 La dejé levantada en heroku para que pudiesen probar, sin embargo como utilicé  **MailGun**  y es la versión de prueba debo verificar sus correos para que puedan probarla, me contactan y los incluyo para que puedan ver la aplicación funcionar.
 

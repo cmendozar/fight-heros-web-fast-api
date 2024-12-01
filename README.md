@@ -1,4 +1,4 @@
-# Fight Heroes Toku
+# Fight Heroes Fast Api Web
 
 Fight Heroes Toku es una aplicación web construida con **FastAPI** que simula batallas entre dos equipos de héroes. Los resultados de la batalla se pueden enviar por correo electrónico a través de Mailgun. Esta aplicación permite a los usuarios ingresar su correo electrónico, simular una batalla, y recibir el resultado por correo.
 
